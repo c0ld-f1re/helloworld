@@ -1,0 +1,17 @@
+{
+	{
+		"id":1,
+		"question":"How are you?",
+		"ans":2
+	}
+	{
+		"id":2,
+		"question":"Where?",
+		"ans":4
+	}
+	{
+		"id":3,
+		"question":"What?",
+		"ans":3
+	}
+}
